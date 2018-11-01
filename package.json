@@ -1,0 +1,45 @@
+{
+  "name": "zalgonet",
+  "version": "1.0.0-alpha",
+  "description": "The Operating System for World Domination",
+  "main": "main.js",
+  "scripts": {
+    "test": "make test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/ZalgoNet/zalgonet.git"
+  },
+  "keywords": [
+    "mud",
+    "mmo",
+    "adventure",
+    "game",
+    "bitcoin",
+    "crypto",
+    "currency",
+    "trading",
+    "genetic",
+    "artificial",
+    "intelligence",
+    "awesome",
+    "bacon",
+    "satoshi",
+    "nakamoto",
+    "s8f",
+    "carlos8f",
+    "starbuckstarfish"
+  ],
+  "author": "Starbuck Starfish",
+  "license": "SEE LICENSE IN LICENSE.txt",
+  "bugs": {
+    "url": "https://github.com/ZalgoNet/zalgonet/issues"
+  },
+  "homepage": "https://github.com/ZalgoNet/zalgonet#readme",
+  "dependencies": {
+    "async": "^2.6.1",
+    "ccxt": "^1.17.433",
+    "level": "^4.0.0",
+    "telnet": "git+https://github.com/TooTallNate/node-telnet.git#780340617e1f223de384cdfcb7cecf0a1a6f1159"
+  }
+}
